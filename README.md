@@ -1,6 +1,6 @@
 # Simple Cli for `gh-badges` library
 
-I find that gh-badges built in command line tool have strange behaviour. So I rebuild a simple command line tool on top of `gh-badges` library.
+I find that built-in command line tool for `gh-badges` have strange behaviour. So I rebuild a simple command line tool on top of `gh-badges` library.
 
 ## Installation
 
