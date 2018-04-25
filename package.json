@@ -1,0 +1,14 @@
+{
+  "name": "badges",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Erwan BERNARD",
+  "license": "MIT",
+  "dependencies": {
+    "gh-badges": "^1.3.0",
+    "yargs": "^11.0.0"
+  },
+  "bin": {
+    "badge": "app.js"
+  }
+}
