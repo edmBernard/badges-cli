@@ -1,5 +1,5 @@
 {
-  "name": "badges",
+  "name": "badges-cli",
   "version": "1.0.0",
   "main": "app.js",
   "author": "Erwan BERNARD",
@@ -9,6 +9,6 @@
     "yargs": "^11.0.0"
   },
   "bin": {
-    "badge": "app.js"
+    "badges-cli": "app.js"
   }
 }
