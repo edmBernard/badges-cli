@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#!/usr/bin/env nodejs
 
 const badge = require('gh-badges')
 var argv = require('yargs')
